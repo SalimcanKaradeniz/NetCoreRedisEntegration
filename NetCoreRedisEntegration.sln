@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreRedisEntegration", "NetCoreRedisEntegration\NetCoreRedisEntegration.csproj", "{538A727A-A1B4-433C-ABD1-1EFA677D204D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreRedisEntegrationBusiness", "NetCoreRedisEntegrationBusiness\NetCoreRedisEntegrationBusiness.csproj", "{31EFDF7F-05CB-444D-ADC4-DD520AFDAEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538A727A-A1B4-433C-ABD1-1EFA677D204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538A727A-A1B4-433C-ABD1-1EFA677D204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538A727A-A1B4-433C-ABD1-1EFA677D204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538A727A-A1B4-433C-ABD1-1EFA677D204D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EFDF7F-05CB-444D-ADC4-DD520AFDAEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EFDF7F-05CB-444D-ADC4-DD520AFDAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EFDF7F-05CB-444D-ADC4-DD520AFDAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EFDF7F-05CB-444D-ADC4-DD520AFDAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A62D88-DC2B-4A58-BF7A-4D58A4BDC97C}
+	EndGlobalSection
+EndGlobal

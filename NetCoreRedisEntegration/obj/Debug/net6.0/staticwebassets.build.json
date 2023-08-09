@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dn/tdIZVwFqviKjrCLGQbCe/RPQ+lLerzoB3n7+Ade8=",
+  "Source": "NetCoreRedisEntegration",
+  "BasePath": "_content/NetCoreRedisEntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
